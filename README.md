@@ -2,8 +2,6 @@
 
 **UzWorks** is a robust Android application designed to bridge the gap between job seekers and employers in Uzbekistan. Built with a focus on clean architecture, performance, and a professional user experience.
 
-# 📲 [Download APK](https://github.com/uzbedeveloper/uzworks/releases)
-
 **📸 Screenshots**
 <p align="center">
   <img src="https://github.com/uzbedeveloper/uzworks/blob/main/page1.png" width="250">
