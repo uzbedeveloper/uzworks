@@ -24,6 +24,7 @@ UzWorks provides a dual-sided marketplace. **Job Seekers** can build professiona
 
 #
 
-👤 **Author**
-Created by **[Umarkhon Murodkhonov](https://github.com/uzbedeveloper)**
-*Android Developer | Student at TUIT*
+
+👤 **Contributed by**
+* **[AndroidDeveloper257](https://github.com/AndroidDeveloper257)** — Android Developer
+* **[Umarkhon Murodkhonov](https://github.com/uzbedeveloper)** — Android Developer | Student at TUIT
