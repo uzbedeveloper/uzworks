@@ -2,11 +2,9 @@
 
 **UzWorks** is a robust Android application designed to bridge the gap between job seekers and employers in Uzbekistan. Built with a focus on clean architecture, performance, and a professional user experience.
 
-**📸 Screenshots**
-<p align="center">
-  <img src="https://github.com/uzbedeveloper/uzworks/blob/main/page1.png" width="250">
-  <img src="https://github.com/uzbedeveloper/uzworks/blob/main/page2.png" width="250">
-</p>
+![Advertisement Banner 1](https://github.com/uzbedeveloper/uzworks/blob/main/page1.png)
+
+![Advertisement Banner 2](https://github.com/uzbedeveloper/uzworks/blob/main/page2.png)
 
 #
 
@@ -23,14 +21,6 @@ UzWorks provides a dual-sided marketplace. **Job Seekers** can build professiona
 * **Kotlin Coroutines** – Handling asynchronous tasks and background operations smoothly.
 * **Retrofit & OkHttp** – Robust REST API communication with efficient networking.
 * **Room Database** – Local caching and persistence for offline access to job listings.
-
-#
-
-💾 **Installation**
-1. Download the latest APK from the **[Releases](https://github.com/uzbedeveloper/uzworks/releases)** section.
-2. Open the file on your Android device.
-3. Enable "Install from Unknown Sources" in your settings if required.
-4. Launch UzWorks and start your career journey!
 
 #
 
